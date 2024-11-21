@@ -1,2 +1,2 @@
-# StartToExcercise
-Mobile Application to track your excercises.
+# Start To Exercise
+Mobile Application to track your exercises.
